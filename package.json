@@ -1,0 +1,16 @@
+{
+  "name": "test-vitepress",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
+  },
+  "repository": "git@github.com:fuchunhui/test-vitepress.git",
+  "author": "fuchunhui <fuchuhu7@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "^0.22.3"
+  }
+}
